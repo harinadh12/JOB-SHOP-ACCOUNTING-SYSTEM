@@ -5,7 +5,7 @@ A Relational Database Management system has been designed according to the accou
 
 ### E-R Diagram
 
-* Entity Relationship diagram can be found on Page 2 of [DB Report](./DB_Report.pdf)
+* Entity Relationship diagram can be found on Page 2 of [DB Report](./Appidi_Harinadh_IP_REPORT.pdf#page=2)
 
 ### Data Element Dictionary
 * Data Element dictionary can be found from page 5-8 on 
