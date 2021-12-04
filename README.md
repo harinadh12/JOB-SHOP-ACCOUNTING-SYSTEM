@@ -5,3 +5,7 @@ A Relational Database Management system has been designed according to the accou
 
 ### Project Report
   * Project report can be found with detailed implementation steps and navigation [Project Report](./DB_REPORT.pdf)
+
+####                                        E-R Diagram
+
+![](./ER Diagram.png)
