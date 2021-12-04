@@ -8,4 +8,4 @@ A Relational Database Management system has been designed according to the accou
 
 ####                                        E-R Diagram
 
-![](./ER Diagram.png)
+![ER_Diagram](./ER-Diagram.png)
