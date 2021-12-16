@@ -8,7 +8,7 @@ A Relational Database Management system has been designed according to the accou
 
 ####                                        E-R Diagram
 
-![ER_Diagram](./ER-Diagram.png) 
+![ER_Diagram](./ER_Diagram.png) 
 
 #### Relational Database Schema 
  * Customer(cust_name, cust_address, category)
