@@ -1,6 +1,6 @@
 # JOB-SHOP-ACCOUNTING-SYSTEM
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 A job-shop accounting system is part of an organization that manufactures special-purpose assemblies for customers. 
 A Relational Database Management system has been designed according to the accounting requirements given in the [Requirements](./Project_Requirements.pdf) File.
